@@ -1,10 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53c8446e-8e02-42a6-a237-1e2bb80b1824" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empresa/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empresa/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empresa/Jefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PPO/Movil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PPO/tienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP1/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP3/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP4/CuentaCorrientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP4/UsoCuentas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP5/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP5/Facultad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP5/UsoFacultad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP6/GeneradorContraseñas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PSzSv9VgestsrkLhXF8UDy9OmC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP6.Main" />
+      <module name="LaboratorioII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP2eje1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP2eje1" />
+      <module name="LaboratorioII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP2eje2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP2eje2" />
+      <module name="LaboratorioII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsoFacultad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP5.UsoFacultad" />
+      <module name="LaboratorioII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PPO.tienda" />
+      <module name="LaboratorioII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PPO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UsoFacultad" />
+        <item itemvalue="Application.tienda" />
+        <item itemvalue="Application.TP2eje2" />
+        <item itemvalue="Application.TP2eje1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c8446e-8e02-42a6-a237-1e2bb80b1824" name="Default Changelist" comment="" />
+      <created>1565882288836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565882288836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
